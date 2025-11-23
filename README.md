@@ -1,6 +1,6 @@
 # Image Gallery
 
-![Image Gallery Screenshot](screenshot.png)
+![Image Gallery Screenshot](screenshot.jpg)
 
 This project is a simple, responsive image gallery that dynamically loads images from a specified directory. The gallery is built with HTML, CSS, and JavaScript, and it features an automated script to update the image list.
 
